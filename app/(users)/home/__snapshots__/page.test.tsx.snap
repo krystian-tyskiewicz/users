@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <header
+    class="sc-jRQBzY bPfapj"
+  >
+    <h4
+      class="sc-bqiRFl eSiAwy"
+    >
+      Users List
+    </h4>
+    <button
+      class="sc-bdvumH haoqpZ"
+      type="button"
+    >
+      Add new
+    </button>
+  </header>
+  <div
+    class="sc-fFeiqI elCEmB"
+  >
+    <table
+      class="sc-pVSyH hFSsQO"
+    >
+      <thead
+        class="sc-jrQzhe"
+      >
+        <tr
+          class="sc-iqsfQQ"
+        >
+          <th
+            class="sc-crHkVz fpdoEl"
+          >
+            Id
+          </th>
+          <th
+            class="sc-crHkVz fpdoEl"
+          >
+            Name
+          </th>
+          <th
+            class="sc-crHkVz fpdoEl"
+          >
+            Username ↓
+          </th>
+          <th
+            class="sc-crHkVz fpdoEl"
+          >
+            Email
+          </th>
+          <th
+            class="sc-crHkVz fpdoEl"
+          >
+            City
+          </th>
+          <th
+            class="sc-crHkVz fpdoEl"
+          >
+            Edit
+          </th>
+          <th
+            class="sc-crHkVz fpdoEl"
+          >
+            Delete
+          </th>
+        </tr>
+      </thead>
+      <tbody
+        class="sc-kDTiHp"
+      >
+        <tr
+          class="sc-iqsfQQ"
+        >
+          <td
+            class="sc-egifa chFxGh"
+          >
+            1234
+          </td>
+          <td
+            class="sc-egifa chFxGh"
+          >
+            John Doe
+          </td>
+          <td
+            class="sc-egifa chFxGh"
+          >
+            john-doe
+          </td>
+          <td
+            class="sc-egifa chFxGh"
+          >
+            john@doe.com
+          </td>
+          <td
+            class="sc-egifa chFxGh"
+          >
+            New York
+          </td>
+          <td
+            class="sc-egifa chFxGh"
+          >
+            <button
+              class="sc-bdvumH hcIvqc"
+              type="button"
+            >
+              Edit
+            </button>
+          </td>
+          <td
+            class="sc-egifa chFxGh"
+          >
+            <button
+              class="sc-bdvumH ynMys"
+              type="button"
+            >
+              Delete
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

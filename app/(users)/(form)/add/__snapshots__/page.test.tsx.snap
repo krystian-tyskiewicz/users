@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <header
+    class="sc-jRQBzY bPfapj"
+  >
+    <h4
+      class="sc-bqiRFl eSiAwy"
+    >
+      Add User
+    </h4>
+  </header>
+  <form
+    class="sc-ksdynI"
+  >
+    <div
+      class="sc-eCIlHX kAWkuI"
+    >
+      <input
+        class="sc-gKclGN kytkRg"
+        name="name"
+        placeholder="Name*"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-eCIlHX kAWkuI"
+    >
+      <input
+        class="sc-gKclGN kytkRg"
+        name="username"
+        placeholder="Username*"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-eCIlHX kAWkuI"
+    >
+      <input
+        class="sc-gKclGN kytkRg"
+        name="email"
+        placeholder="Email*"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-eCIlHX kAWkuI"
+    >
+      <input
+        class="sc-gKclGN kytkRg"
+        name="city"
+        placeholder="City"
+        value=""
+      />
+    </div>
+    <div
+      class="sc-eCIlHX kAWkuI"
+    >
+      <div
+        class="sc-gsDKeI ejuFsk"
+      >
+        <button
+          class="sc-bdvumH ynMys sc-dkPulx lgyEdo"
+          type="button"
+        >
+          Cancel
+        </button>
+        <button
+          class="sc-bdvumH ftCnfd sc-dkPulx lgyEdo"
+          type="submit"
+        >
+          Submit
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+`;

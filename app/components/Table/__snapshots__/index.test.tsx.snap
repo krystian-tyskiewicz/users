@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <table
+    class="sc-bdvumH cPURWe"
+  >
+    <thead
+      class="sc-gsDKeI"
+    >
+      <tr
+        class="sc-hKwBBi"
+      >
+        <th
+          class="sc-eCIlHX ctgWaU"
+        >
+          Id
+        </th>
+        <th
+          class="sc-eCIlHX ctgWaU"
+        >
+          Name
+        </th>
+      </tr>
+    </thead>
+    <tbody
+      class="sc-dkPulx"
+    >
+      <tr
+        class="sc-hKwBBi"
+      >
+        <td
+          class="sc-jRQBzY gSFLqd"
+        >
+          1
+        </td>
+        <td
+          class="sc-jRQBzY gSFLqd"
+        >
+          John Doe
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "M6iaSgD",
+      "name": "Jon Snow",
+      "username": "Wolf",
+      "email": "jon@snow.com",
+      "city": "Winterfell"
+    },
+    {
+      "id": "A7djKHH",
+      "name": "Darth Vader",
+      "username": "Vader",
+      "email": "darth@vader.com",
+      "city": "Death Start"
+    },
+    {
+      "id": "YaoxzMN",
+      "name": "Frodo Baggins",
+      "username": "Frodo",
+      "email": "frodo@bagginsc.com",
+      "city": "Shire"
+    },
+    {
+      "id": "4O93fGK",
+      "name": "Indiana Jones",
+      "username": "Indy",
+      "email": "indiana@jones.com",
+      "city": "Venice"
+    },
+    {
+      "id": "iWna1AU",
+      "name": "Luke Skywalker",
+      "username": "Luke",
+      "email": "luke@skywalker.com",
+      "city": "Tatooine"
+    }
+  ]
+}
