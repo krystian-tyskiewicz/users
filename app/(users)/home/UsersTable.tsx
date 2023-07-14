@@ -25,7 +25,7 @@ const UsersTable = ({ users, onUserDelete }: Props) => (
       </Tr>
     </THead>
     <TBody>
-      {(users as User[]).map(user => (
+      {(users as User[] || []).map(user => (
         <Tr key={user.id}>
           <Td>{user.id}</Td>
           <Td>{user.name}</Td>
